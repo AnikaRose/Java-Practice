@@ -4,8 +4,7 @@
 import java.util.*;
 
 public class RandomTest {
-  
-  
+    
   public static void main(String[] args) { 
     Random generator = new Random();
     int num1;
@@ -31,7 +30,5 @@ public class RandomTest {
     System.out.println ("From 1 to 6: " + num1);
     
   }
-  
-  /* ADD YOUR CODE HERE */
   
 }
