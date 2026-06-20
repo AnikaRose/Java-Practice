@@ -1,6 +1,3 @@
-/**
- * Auto Generated Java Class.
- */
 import java.util.*;
 public class RandomTest {    
   public static void main(String[] args) { 
