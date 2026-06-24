@@ -25,7 +25,7 @@ public class StringTest {
     System.out.println ("Mutation #3: " + mutation3);
     System.out.println ("Mutation #4: " + mutation4);
     
-    System.out.println ("Mutated length: " + mutation4.length());
+    System.out.println ("Mutated length is: " + mutation4.length());
     
     System.out.println ("Phrase: " + phrase );
     
