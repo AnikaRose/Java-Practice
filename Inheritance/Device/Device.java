@@ -17,10 +17,16 @@ public class Device {
     }
     Device other = (Device) obj;
     return Double.compare(this.price , other.price) == 0 &&
-            (this.brand != null ? this.brand.equals(other.brand) : other.brand == null);   
+            (this.brand != null ? this.brand.equals(other.brand) : other.brand == null);
+    
+    
     }
+    
+    
     @Override
     public String toString(){
-        return "Brand: " + brand + "\nPrice: " + price ;      
+        return "Brand: " + brand + "\nPrice: " + price ;
+        
     }
+
 }
