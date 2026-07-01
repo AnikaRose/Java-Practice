@@ -10,7 +10,7 @@ package Inheritance.Device;
  */
 public class Main {
     public static void main(String[] args) {
-        // Creating  devices
+        // Creating devices
         Device Device1 = new Device("Sony", 299.99);
         Device Device2 = new Device("Sony", 299.99);
         Device Device3 = new Device("Apple", 999.99);
