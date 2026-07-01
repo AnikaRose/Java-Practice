@@ -10,7 +10,7 @@ package Inheritance.Device;
  */
 public class Main {
     public static void main(String[] args) {
-        // Creating generic devices
+        // Creating  devices
         Device Device1 = new Device("Sony", 299.99);
         Device Device2 = new Device("Sony", 299.99);
         Device Device3 = new Device("Apple", 999.99);
@@ -21,7 +21,7 @@ public class Main {
         Laptop laptop3 = new Laptop("Dell", 800.00, 8); // Different RAM
 
         // --- Testing Equals Method ---
-        System.out.println("Generic Devices:");
+        System.out.println("Devices:");
         System.out.println(Device1+" "+Device2+" "+Device3);
         System.out.println("Laptops:");
         System.out.println(laptop1+" "+laptop2+" "+laptop3);
