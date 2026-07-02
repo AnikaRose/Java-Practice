@@ -18,5 +18,4 @@ public abstract class LibraryItem {
     
     public abstract double  calculateLateFee(int daysLate);
     
-    
 }
