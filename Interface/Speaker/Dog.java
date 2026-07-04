@@ -5,7 +5,7 @@ public class Dog implements Speaker {
         this.name = name;
     }
     public void speak(){
-        System.out.println("Ghew");
+        System.out.println("Woof Woof");
     }
     public String toString(){
       return "Dog: " + name;
