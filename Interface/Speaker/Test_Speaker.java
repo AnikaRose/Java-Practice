@@ -8,6 +8,5 @@ public class Test_Speaker {
         guest = new Philosopher("Socrates");
         guest.speak();
         System.out.println(guest);
-    }
-    
+    }   
 }
