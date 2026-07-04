@@ -11,7 +11,5 @@ public class Philosopher implements Speaker {
     }  
     public String toString(){
       return "Philosopher: " + name;
-    }
-    
-    
+    }   
 }
