@@ -1,4 +1,5 @@
 package Interface.Speaker;
+
 public class Dog implements Speaker {
     private String name;
     public Dog(String name){
