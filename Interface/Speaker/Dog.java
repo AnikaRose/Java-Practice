@@ -10,6 +10,5 @@ public class Dog implements Speaker {
     }
     public String toString(){
       return "Dog: " + name;
-    }
-   
+    }   
 }
